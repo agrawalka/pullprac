@@ -1,1 +1,1 @@
-this is just to practice git pul command.
+this is just to practice git pull command.
